@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama hassounds="1" appversion="7.1.6" apprev="20966" id="node1">
+  <input overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.webp" height="2759" levelbiashidpi="1.000" leveltilesize="510" levelingroll="0" levelingpitch="0" width="2759" levelbias="0.400">
+    <level height="2759" preload="0" width="2759" predecode="0"/>
+    <level height="1379" preload="0" width="1379" predecode="0"/>
+    <level height="689" preload="0" width="689" predecode="0"/>
+    <level height="344" preload="1" width="344" predecode="1"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view pannorth="-87.2839" fovmode="2">
+    <start tilt="0" fov="129.81" projection="4" pan="2.6"/>
+    <flyin tilt="-90" fov="337.55" projection="9" pan="180"/>
+    <min tilt="-90" pan="0" fovpixel="2"/>
+    <max tilt="90" fov="140" fovstereographic="330" pan="360" scaletofit="1" fovfisheye="360"/>
+  </view>
+  <userdata longitude="-51.93668647" latitude="-23.41603643" title="ADEGA MAISON" source="" info="" comment="" customnodeid="" nodeid="node1" tags="AADEGAMAISON" author="MGTOUR360GRAUS" copyright="MARCELO RIBEIRO   GUTIARA RI" description="" heading="-87.2839" datetime=""/>
+  <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+    <label textalpha="1" border="1" backgroundalpha="1" height="20" bordercolor="0x000000" background="1" enabled="1" wordwrap="1" borderradius="1" backgroundcolor="0xffffff" borderalpha="1" textcolor="0x000000" width="180"/>
+    <polystyle backgroundcolor="0x0000ff" borderalpha="1" backgroundalpha="0.25098" handcursor="1" bordercolor="0x0000ff" mode="0"/>
+  </hotspots>
+  <media>
+    <sound loop="1" field="90.000" startmutedmobile="0" id="_background" mode="0" nodechangekeep="1" tilt="-1.000" level="1.000" tiltsize="10.000" pansize="10.000" ambientlevel="0.000" pan="-1.000">
+      <source mono="0" url="media/Avalon_Audio_-_Groove_Funk_Beat_Main 1.mp3"/>
+    </sound>
+  </media>
+  <transition zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" softedge="0" type="crossdissolve" zoomout="0" enabled="1" zoomoutpause="1" delay="none" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40"/>
+  <autorotate noderandom="1" horizonfromdefview="0" returntohorizon="0.000" speed="0.100" enabled="1" nodefilter="" delay="5.00" useanimation="1" startloaded="0" nodedelay="0.00"/>
+  <soundstransition enabled="1" transitiontime="2" crossfade="1"/>
+  <flyintransition speed="1.00" enabled="1"/>
+  <animation useinautorotation="1" clipsrandom="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+  <control dblclickfullscreen="0" contextfullscreen="1" contextprojections="0" sensitivity="8" lockedwheel="0" invertwheel="0" speedwheel="1" lockedkeyboard="0" rubberband="0" invertcontrol="1" lockedkeyboardzoom="0" contextvr="1" hideabout="0" simulatemass="1" zoomcentercursor="1" lockedmouse="0"/>
+  <projectuserdata title="ADEGA MAISON" author="MG TOUR 360" description="Avenida Herval 1045, Edifício Terraço Itália - zona 07" copyright="" comment="" tags=""/>
+</panorama>
